@@ -1,0 +1,3 @@
+﻿  Projekt_Labyrint.cpp
+C:\Users\vicke\source\repos\Projekt_Labyrint\Projekt_Labyrint\Projekt_Labyrint.cpp(325,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Projekt_Labyrint.vcxproj -> C:\Users\vicke\source\repos\Projekt_Labyrint\Debug\Projekt_Labyrint.exe
